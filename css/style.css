@@ -1,0 +1,39 @@
+#backdrop {
+    background-color: yellow;
+}
+
+header {
+    background-color: blue;
+}
+
+nav {
+    background-color: chartreuse;
+}
+
+main {
+    background-color: crimson;
+}
+
+aside {
+    background-color: darkmagenta;
+}
+
+section {
+    background-color: darkorange;
+}
+
+footer {
+    background-color: darkslategrey;
+}
+
+header, section {
+    height: 150px;
+}
+
+nav, footer {
+    height: 70px;
+}
+
+main, aside {
+    height: 200px;
+}
